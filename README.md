@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = VillaanaViewTool::Renderer.copyright 'Ana Villa', 'All rights reserved'
+```
 
 ## Development
 
