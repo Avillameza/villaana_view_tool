@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-@copyright = VillaanaViewTool::Renderer.copyright 'Ana Villa', 'All rights reserved'
+VillaanaViewTool::Renderer.copyright 'Ana Villa', 'All rights reserved'
 ```
 
 ## Development
