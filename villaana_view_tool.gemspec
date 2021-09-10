@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/Avillameza/villaana_view_tool"
   spec.required_ruby_version = ">= 2.4.0"
 
-  spec.metadata["allowed_push_host"] = "'https://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "'https://rubygems.org/'"
 
    spec.metadata["homepage_uri"] = "https://github.com/Avillameza/villaana_view_tool"
    spec.metadata["source_code_uri"] = "https://github.com/Avillameza/villaana_view_tool"
